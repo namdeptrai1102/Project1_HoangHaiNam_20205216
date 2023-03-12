@@ -1,0 +1,9 @@
+[package]
+name = "clock"
+version = "1.0.0"
+authors = ["Hoàng Hải Nam 20205216"]
+edition = "2021"
+
+[dependencies]
+iced = { path = "../..", features = ["canvas", "tokio", "debug"] }
+time = { version = "0.3.5", features = ["local-offset"] }
