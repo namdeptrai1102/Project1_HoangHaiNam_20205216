@@ -6,4 +6,4 @@ Học phần: Project1 - IT3150.
 
 Giảng viên hướng dẫn: Thầy Nguyễn Tuấn Dũng.
 
-Sản phẩm đề tài xây dựng app đồng hồ đơn giản sử dụng ngôn ngữ Rust và thư viện Iced.
+Đề tài: Xây dựng app đồng hồ đơn giản sử dụng ngôn ngữ Rust và thư viện Iced.
