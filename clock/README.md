@@ -4,7 +4,8 @@ Một ứng dụng sử dụng `Canvas` widget để vẽ đồng hồ đơn gi�
 
 File __[`main`]__ chứa toàn bộ code của ứng dụng.
 
-![alt]([http://~](https://prnt.sc/FZBqjQh-IKaQ))
+![2023-03-12-21-51-47](https://user-images.githubusercontent.com/109681639/224553450-247dabcf-8ddc-465e-a5da-1be325b0ba13.gif)
+
 Chạy chương trình bằng `cargo run`:
 ```
 cargo run --package clock
